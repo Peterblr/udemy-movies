@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/udemy-movies/static/css/main.23ab8bac.chunk.css",
+    "main.js": "/udemy-movies/static/js/main.7357c684.chunk.js",
+    "main.js.map": "/udemy-movies/static/js/main.7357c684.chunk.js.map",
+    "runtime-main.js": "/udemy-movies/static/js/runtime-main.4ef7738f.js",
+    "runtime-main.js.map": "/udemy-movies/static/js/runtime-main.4ef7738f.js.map",
+    "static/js/2.064ff8ef.chunk.js": "/udemy-movies/static/js/2.064ff8ef.chunk.js",
+    "static/js/2.064ff8ef.chunk.js.map": "/udemy-movies/static/js/2.064ff8ef.chunk.js.map",
+    "index.html": "/udemy-movies/index.html",
+    "static/css/main.23ab8bac.chunk.css.map": "/udemy-movies/static/css/main.23ab8bac.chunk.css.map",
+    "static/js/2.064ff8ef.chunk.js.LICENSE.txt": "/udemy-movies/static/js/2.064ff8ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef7738f.js",
+    "static/js/2.064ff8ef.chunk.js",
+    "static/css/main.23ab8bac.chunk.css",
+    "static/js/main.7357c684.chunk.js"
+  ]
+}
